@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(0, 136, 255);
+}
+h1 {
+  columns: rgb(212, 28, 28);
+}
+button {
+  background-color: rgb(196, 41, 41);
+  color: rgb(0, 108, 202);
+  border-radius: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  font-size: large;
+}
